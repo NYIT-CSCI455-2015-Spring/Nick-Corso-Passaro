@@ -1,0 +1,3 @@
+create 3 user stories for project (per person)
+what do we want the app to actually do (user perspective)
+meet monday at noon
